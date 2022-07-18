@@ -39,6 +39,7 @@ I am a current Master of Data Science student at Northeastern Univeristy.
 ### **Replicated State Machine Protocol – Raft in Go**
 + Reconstructed Raft in go, maintaining consistency between replicas by organizing replica’s logs via RPC. 
 + Completed leader election mechanism to ensure single leader, used heartbeat and random time-out to re-elect after failure, designed log entry’s term and index to detect and recovery from failure.
+
 ---
 ## **Publications**
 *Design of Low-crosstalk Half-wavelength Pitch Nano-structured Silicon Waveguide Array. Opt. Lett. 44, 3266-3269 (2019)*
