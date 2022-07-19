@@ -1,4 +1,3 @@
-<img src="photos/bio_photo.jpg" width="120px" height="160px">&nbsp;
 
 ---
 I am a current Master of Data Science student at Northeastern Univeristy.
