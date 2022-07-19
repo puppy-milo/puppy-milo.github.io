@@ -1,4 +1,4 @@
-
+![bio photos](photos/bio_photo.jpg)
 ---
 I am a current Master of Data Science student at Northeastern Univeristy.
 
